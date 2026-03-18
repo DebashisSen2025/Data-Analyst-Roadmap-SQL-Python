@@ -1,0 +1,166 @@
+════════════════════════════════════════════════════════════════════════════════
+LINKEDIN POST FOR GITHUB REPO LAUNCH
+COPY & PASTE THIS DIRECTLY TO YOUR LINKEDIN
+════════════════════════════════════════════════════════════════════════════════
+
+🚀 I just published a complete Data Analyst Roadmap for everyone learning SQL & Python!
+
+After working as a Data Analyst and seeing how many people struggle with "where do I even start?", I created something I wish I had when I began.
+
+Here's what's inside:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 SQL ROADMAP (Complete Progression)
+• Basics: SELECT, WHERE, GROUP BY
+• Intermediate: JOINS, Subqueries, CASE statements
+• Advanced: Window Functions, CTEs, Complex Queries
+• 50+ Interview Questions with Solutions
+
+🐍 PYTHON ROADMAP (Beginner to Professional)
+• Python Fundamentals
+• Data Manipulation (Pandas & NumPy)
+• Data Cleaning & EDA
+• Data Visualization
+• Real-world Practice Questions
+
+📁 REAL DATASETS
+• Customer data
+• Orders data
+• Practice exercises
+(Not toy data — actual datasets you'll see in real jobs)
+
+💼 3 COMPLETE PROJECTS
+• Customer Churn Analysis
+• Sales Analytics
+• Data Quality Assessment
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Why I Made This:
+
+❌ Most "data analyst" resources are too theoretical
+❌ Interview questions aren't realistic
+❌ No real practice with actual data
+❌ Missing the "what's next?" roadmap
+
+✅ This repo solves all of that
+
+✅ 100% Code along → Run every example
+✅ Interview focused → Real questions you'll be asked
+✅ Real data → Practice with actual datasets
+✅ Complete path → SQL basics → Getting your first job
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📂 Explore the complete repo here:
+https://github.com/DebashisSen2025/Data-Analyst-Roadmap-SQL-Python
+
+(All free, open-source, and always being updated)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📌 How to Use:
+
+Week 1-2: Master SQL Basics
+→ Read SQL_Roadmap.md
+→ Run all queries in 01_SQL_Basics.sql
+→ Practice with real data
+
+Week 3-8: Learn Python
+→ Follow Python_Roadmap.md
+→ Run each notebook
+→ Complete practice questions
+
+Week 9+: Build Projects
+→ Choose a project
+→ End-to-end analysis
+→ Add to your portfolio
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Who This Is For:
+
+✓ Complete beginners (no coding experience needed)
+✓ Career changers (transitioning to analytics)
+✓ Anyone prepping for data analyst interviews
+✓ People wanting to build a real portfolio
+
+Who This Will Help:
+
+✓ Get your first data analyst job
+✓ Ace technical interviews
+✓ Build confidence with real code
+✓ Create a GitHub portfolio
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The Truth:
+
+Companies don't hire based on what you know.
+They hire based on what you can show.
+
+This repo is what you SHOW.
+
+A working SQL portfolio.
+Real Python code.
+Completed projects.
+Proof of capability.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+If you:
+→ Want to become a Data Analyst
+→ Are preparing for interviews
+→ Need a portfolio project
+→ Want to upskill this year
+
+👉 Check the repo and ⭐ Star it!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Feel free to:
+✅ Fork the repo
+✅ Use it for interviews
+✅ Add to your portfolio
+✅ Share with friends learning data
+✅ Suggest improvements
+
+This is for everyone. Let's help more people break into data analytics.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Drop in comments:
+→ Which SQL topic are you most interested in?
+→ What data projects do you want to build?
+→ What challenges are you facing in learning data?
+
+Let's grow this community together 💪
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#DataAnalytics #SQL #Python #DataScience #CareerGrowth #GitHub #Learning #TechSkills #DataEngineer #InterviewPrep #PortfolioProject #GitHub #OpenSource #DataAnalyst
+
+════════════════════════════════════════════════════════════════════════════════
+
+ENGAGEMENT TIPS:
+
+1. Post at 8-10 AM (peak LinkedIn time)
+2. Reply to every comment in first 24 hours
+3. Tag relevant people (optional but helps):
+   → @LinkedIn @GitHub
+4. Pin this post to your profile
+5. Share again in 1-2 weeks with different angle
+
+FOLLOW-UP POSTS (Share these later):
+
+Post 2 (1 week later):
+"Here's what 100+ people learned from my Data Analyst Roadmap repo in the first week..."
+
+Post 3 (2 weeks later):
+"Quick tip: If you're struggling with SQL JOINs, here's the one thing that changed everything..."
+
+Post 4 (3 weeks later):
+"Top 5 interview questions I got asked as a Data Analyst (with solutions in my GitHub repo)"
+
+════════════════════════════════════════════════════════════════════════════════

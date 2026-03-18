@@ -1,0 +1,11 @@
+customer_id,name,email,city,signup_date,customer_segment
+1,John Doe,john@email.com,New York,2023-01-15,Premium
+2,Jane Smith,jane@email.com,Los Angeles,2023-02-20,Standard
+3,Bob Johnson,bob@email.com,Chicago,2023-03-10,Premium
+4,Alice Williams,alice@email.com,Houston,2023-04-05,Standard
+5,Charlie Brown,charlie@email.com,Phoenix,2023-05-12,Basic
+6,Diana Prince,diana@email.com,Philadelphia,2023-06-18,Premium
+7,Eve Wilson,eve@email.com,San Antonio,2023-07-22,Standard
+8,Frank Castle,frank@email.com,San Diego,2023-08-30,Premium
+9,Grace Lee,grace@email.com,Dallas,2023-09-14,Basic
+10,Henry Ford,henry@email.com,San Jose,2023-10-25,Standard
