@@ -33,12 +33,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DebashisSen2025&show_icons=true)
-
----
-
 ## 🌐 Connect With Me  
 
 🔗 LinkedIn: https://linkedin.com/in/debashis-sen25  
